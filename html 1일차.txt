@@ -1,0 +1,28 @@
+#은 id 
+.은 class 
+
+
+? -get 방식 - > 다들어난다 .
+
+
+CSRF => 해커의 계정 도용을 방지 
+
+
+<!DOCTYPE html>
+<html lang ="ko">
+<head>
+<meta charset=" utf-8">
+<title>html form</title>
+</head>
+<body>
+	<form action="kkk.jsp" method="post"> 
+	<!-- sdfsdfsdfdfsdf -->
+		<input type="text" title="검색">
+		<input type="submit" value="버튼내용">
+	</form>
+</body>
+</html>
+
+웹페이지 기본 // post방식 -> 버튼등으로 호출
+
+1em = 16px
